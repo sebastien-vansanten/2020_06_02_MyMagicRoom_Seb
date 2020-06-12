@@ -6,5 +6,5 @@
   "description": "this is ma room",
   "keywords": ["Script","Tool"],
   "category": "Script",
-  "dependencies":{}
+  "dependencies":{"be.eloistree.magicdoorsroompattern":"0.0.1"}
 }
